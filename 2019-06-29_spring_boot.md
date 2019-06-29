@@ -34,6 +34,9 @@ $ git clone https://github.com/spring-guides/gs-rest-service.git
 https://ti-tomo-knowledge.hatenablog.com/entry/2018/06/06/204455 を参考にやってみる。
 *  https://github.com/zzzzz-don/hello
 
+## Spring Initializr
+* https://start.spring.io/ 便利そう
+
 ## 参考リンク
 - https://qiita.com/MasanoriMT/items/492a0fab07793a645ba5
 - https://spring.io/guides/gs/rest-service/
