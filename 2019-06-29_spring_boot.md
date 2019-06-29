@@ -24,6 +24,11 @@ Matching Java Virtual Machines (2):
 $ git clone https://github.com/spring-guides/gs-rest-service.git
 ```
 * Welcome画面でImport Project->complete配下のbuild.gradleを選択
+* アプリケーションクラスを選択して実行
+* http://localhost:8080/greeting にアクセスする
+```
+{"id":1,"content":"Hello, World!"}
+```
 
 ## 参考リンク
 - https://qiita.com/MasanoriMT/items/492a0fab07793a645ba5
