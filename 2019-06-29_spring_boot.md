@@ -30,6 +30,10 @@ $ git clone https://github.com/spring-guides/gs-rest-service.git
 {"id":1,"content":"Hello, World!"}
 ```
 
+## 新規プロジェクトで作成
+https://ti-tomo-knowledge.hatenablog.com/entry/2018/06/06/204455 を参考にやってみる。
+*  https://github.com/zzzzz-don/hello
+
 ## 参考リンク
 - https://qiita.com/MasanoriMT/items/492a0fab07793a645ba5
 - https://spring.io/guides/gs/rest-service/
