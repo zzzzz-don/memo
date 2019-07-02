@@ -1,6 +1,4 @@
 ## まとめ
-https://start.spring.io/
-
 | 分類  | ライブラリ | 詳細 |
 |:-----------|:------------|:------------|
 | Developer Tools | Spring Boot DevTools| Provides fast application restarts, LiveReload, and configurations for enhanced development experience.|
@@ -63,11 +61,3 @@ https://start.spring.io/
 |Ops|Spring Boot Actuator|Supports built in (or custom) endpoints that let you monitor and manage your application - such as application health, metrics, sessions, etc.|
 ||Spring Boot Admin (Client)|Required for your application to register with a Spring Boot Admin Server instance.|
 ||Spring Boot Admin (Server)|A community project to manage and monitor your Spring Boot applications. Provides a UI on top of the Spring Boot Actuator endpoints.|
-
-
-
-
-Spring LDAP
-Makes it easier to build Spring based applications that use the Lightweight Directory Access Protocol.
-Okta
-Okta specific configuration for Spring Security/Spring Boot OAuth2 features. Enable your Spring Boot application to work with Okta via OAuth 2.0/OIDC.
